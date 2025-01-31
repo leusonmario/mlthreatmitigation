@@ -1,0 +1,37 @@
+Related attack,Occurrences
+Denial of Service (DoS),951
+Improper Input Validation,317
+Heap-based Buffer Overflow,192
+NULL pointer dereference attack,180
+Arbitrary code attack,120
+Remote code execution (RCE) attack,111
+Bypass authentication attack,98
+Use-after-free attack,95
+Information disclosure attack,92
+SQL injection attack,63
+Resource Management,40
+Privilege escalation attack,38
+Prototype Pollution attack,37
+XML Injection attack,28
+Stored Cross-Site Scripting (XSS) attack,24
+RPC attack,16
+An insufficiently protected credentials  attack,11
+A insufficiently protected credentials  attack,11
+An improper authentication  attack,11
+A use of incorrectly resolved name  attack,11
+INVALID,10
+Integer Overflow Attack,6
+Double-free  attack,5
+Server-Side Request Forgery (SSRF) attack,5
+Cross-site request forgery (CSRF) attack,3
+HTTP Request Smuggling Attack,2
+Open Redirect Attack,2
+A Regular Expression Denial of Service (ReDOS)  attack,2
+A temp directory creation  attack,2
+Path Traversal Attack,2
+A parsing  attack,1
+Web Cache Poisoning,1
+Unauthenticated arbitrary file upload  attack,1
+Request Smuggling Attack,1
+A path traversal  attack,1
+Directory Traversal Attack,1

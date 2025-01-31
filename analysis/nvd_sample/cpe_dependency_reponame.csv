@@ -1,0 +1,229 @@
+CPE dependency name,CVE ID,Number of CVE ID occurrences,CVE severity,Number of Issues,Issues
+xmlsoft:libxml2,"CVE-2003-1564, CVE-2019-19956",2,"high, medium",2,"open-metadata/OpenMetadata, tensorflow/tensorflow"
+[],"CVE-2015-6396, CVE-2017-0143, CVE-2018-10822, CVE-2018-10823, CVE-2019-14322, CVE-2019-1652, CVE-2019-18197, CVE-2020-13844, CVE-2020-26141, CVE-2020-26145, CVE-2020-3702, CVE-2020-5991, CVE-2021-37712, CVE-2021-37713, CVE-2022-0319, CVE-2022-0543, CVE-2022-2309, CVE-2022-23960, CVE-2022-3734, CVE-2022-41722, CVE-2023-2422, CVE-2023-24816",22,"high, medium, critical",12,"microsoft/qlib, jonaswinkler/paperless-ng, nmap/nmap, triton-inference-server/server, vespa-engine/vespa, LibrePhotos/librephotos, deepchecks/deepchecks, tensorflow/tensorflow, guess-js/guess, RasaHQ/rasa, deepjavalibrary/djl, argoproj/argo-workflows"
+gnu:glibc,"CVE-2016-10228, CVE-2017-8804, CVE-2018-1000001, CVE-2018-6485, CVE-2018-6551, CVE-2019-25013, CVE-2019-9169, CVE-2020-27618, CVE-2020-29562, CVE-2020-6096, CVE-2021-27645, CVE-2021-3326, CVE-2021-35942, CVE-2021-3999, CVE-2022-23218, CVE-2022-23219",16,"high, low, medium, critical",3,"kubeflow/pipelines, kubeflow/kubeflow, mlrun/mlrun"
+canonical:apparmor,CVE-2016-1585,1,critical,1,triton-inference-server/server
+squareup:okhttp3,CVE-2016-2402,1,medium,1,h2oai/h2o-3
+kernel:util-linux,CVE-2016-2779,1,high,2,"kubeflow/pipelines, kubeflow/kubeflow"
+apache:hadoop,"CVE-2016-3086, CVE-2017-15713, CVE-2017-15718, CVE-2018-8009, CVE-2021-37404",5,"high, medium, critical",2,"4paradigm/OpenMLDB, h2oai/h2o-3"
+c-ares_project:c-ares,CVE-2016-5180,1,critical,1,ray-project/ray
+openssl:openssl,"CVE-2016-6307, CVE-2016-6308, CVE-2016-7053, CVE-2016-7054, CVE-2016-8610, CVE-2017-3733, CVE-2017-3738, CVE-2018-0735, CVE-2019-1543, CVE-2019-1552, CVE-2021-3449, CVE-2021-3711, CVE-2021-3712, CVE-2021-4044, CVE-2021-4160, CVE-2022-0778, CVE-2022-1292, CVE-2022-2097, CVE-2022-3358, CVE-2022-3602, CVE-2022-3786, CVE-2022-4304, CVE-2022-4450, CVE-2023-0215, CVE-2023-0286, CVE-2023-0464, CVE-2023-0465, CVE-2023-0466, CVE-2023-1255, CVE-2023-2650",30,"high, critical, medium, low",10,"kubeflow/pipelines, jonaswinkler/paperless-ng, nmap/nmap, triton-inference-server/server, mosaicml/composer, 4paradigm/OpenMLDB, LibrePhotos/librephotos, kubeflow/kubeflow, open-metadata/OpenMetadata, OpenBB-finance/OpenBB"
+zlib:zlib,"CVE-2016-9841, CVE-2016-9843, CVE-2018-25032, CVE-2022-37434",4,"high, critical",4,"kubeflow/pipelines, kubeflow/kubeflow, isl-org/Open3D, argoproj/argo-workflows"
+imagemagick:imagemagick,"CVE-2017-1000476, CVE-2017-12140, CVE-2017-12429, CVE-2017-12430, CVE-2017-12435, CVE-2017-12563, CVE-2017-12643, CVE-2017-12674, CVE-2017-12691, CVE-2017-12692, CVE-2017-12693, CVE-2017-12875, CVE-2017-13133, CVE-2017-14172, CVE-2017-14174, CVE-2017-14175, CVE-2017-14341, CVE-2017-14528, CVE-2017-14532, CVE-2017-14624, CVE-2017-14625, CVE-2017-14626, CVE-2017-17682, CVE-2017-17914, CVE-2017-18271, CVE-2017-18273, CVE-2018-14551",27,"high, medium, critical",1,kubeflow/kubeflow
+libpam4j_project:libpam4j,CVE-2017-12197,1,medium,1,h2oai/h2o-3
+shadow_project:shadow,CVE-2017-12424,1,critical,2,"kubeflow/pipelines, kubeflow/kubeflow"
+gnu:libidn2,CVE-2017-14062,1,critical,2,"kubeflow/pipelines, kubeflow/kubeflow"
+marked_project:marked,CVE-2017-16114,1,high,1,doccano/doccano
+mercurial:mercurial,"CVE-2017-17458, CVE-2018-13347",2,critical,1,kubeflow/kubeflow
+uclouvain:openjpeg,CVE-2017-17480,1,critical,1,kubeflow/kubeflow
+cookie_project:cookie,CVE-2017-18589,1,high,1,LibrePhotos/librephotos
+snakeyaml_project:snakeyaml,"CVE-2017-18640, CVE-2022-25857",2,high,2,"open-metadata/OpenMetadata, ray-project/ray"
+debug_project:debug,CVE-2017-20165,1,high,2,"xorbitsai/inference, infiniflow/ragflow"
+intel:active_management_technology_firmware,CVE-2017-5689,1,critical,1,nmap/nmap
+intel:core_i7,CVE-2017-5754,1,medium,1,tensorflow/tensorflow
+apache:spark,"CVE-2017-7678, CVE-2018-11770, CVE-2018-17190, CVE-2019-10099",4,"high, medium, critical",2,"x4nth055/pythoncode-tutorials, apache/spark"
+haxx:libcurl,"CVE-2017-8816, CVE-2017-8817, CVE-2017-8818, CVE-2018-1000005, CVE-2021-22924, CVE-2021-22945",6,"low, critical",5,"quic/aimet, x4nth055/pythoncode-tutorials, tensorflow/tensorflow, google-research/language, argoproj/argo-workflows"
+apache:struts,CVE-2017-9805,1,high,1,nmap/nmap
+debian:debian_linux,"CVE-2018-1000120, CVE-2018-1000122, CVE-2018-1000301, CVE-2018-15686, CVE-2023-45133",5,"high, critical",4,"xorbitsai/inference, kubeflow/pipelines, kubeflow/kubeflow, argoproj/argo-workflows"
+haxx:curl,"CVE-2018-1000300, CVE-2019-5481, CVE-2019-5482, CVE-2021-22922, CVE-2021-22923, CVE-2021-22925, CVE-2021-22926, CVE-2021-22946, CVE-2021-22947, CVE-2022-22576, CVE-2022-27774, CVE-2022-27775, CVE-2022-27776, CVE-2022-27778, CVE-2022-27779, CVE-2022-27780, CVE-2022-27781, CVE-2022-27782, CVE-2022-30115, CVE-2023-23916, CVE-2023-46218, CVE-2023-46219",22,"high, medium, critical",7,"quic/aimet, triton-inference-server/server, tf-encrypted/tf-encrypted, x4nth055/pythoncode-tutorials, tensorflow/tensorflow, google-research/language, argoproj/argo-workflows"
+busybox:busybox,"CVE-2018-1000517, CVE-2018-20679, CVE-2019-5747, CVE-2021-42374, CVE-2021-42376, CVE-2021-42378, CVE-2021-42379, CVE-2021-42380, CVE-2021-42381, CVE-2021-42382, CVE-2021-42384, CVE-2021-42385, CVE-2021-42386",13,"high, medium, critical",1,kubeflow/pipelines
+google:guava,"CVE-2018-10237, CVE-2020-8908",2,"medium, low",3,"h2oai/h2o-3, feast-dev/feast, ray-project/ray"
+eclipse:jetty,"CVE-2018-12545, CVE-2022-2048, CVE-2023-26048, CVE-2023-40167, CVE-2023-41900",5,"high, medium",1,h2oai/h2o-3
+gnu:gcc,CVE-2018-12886,1,high,1,kubeflow/pipelines
+linux:linux_kernel,"CVE-2018-12930, CVE-2018-12931, CVE-2018-20169, CVE-2018-20836, CVE-2019-11487, CVE-2019-11810, CVE-2019-11815, CVE-2019-12456, CVE-2019-3846, CVE-2019-8980, CVE-2020-16119, CVE-2020-26147, CVE-2020-26541, CVE-2021-20320, CVE-2021-20322, CVE-2021-23133, CVE-2021-23134, CVE-2021-31829, CVE-2021-32399, CVE-2021-33034, CVE-2021-34866, CVE-2021-35039, CVE-2021-3506, CVE-2021-3609, CVE-2021-3653, CVE-2021-3656, CVE-2021-3679, CVE-2021-37159, CVE-2021-3732, CVE-2021-3739, CVE-2021-3743, CVE-2021-3753, CVE-2021-37576, CVE-2021-38160, CVE-2021-38166, CVE-2021-38199, CVE-2021-38204, CVE-2021-38205, CVE-2021-38300, CVE-2021-40490, CVE-2021-41073, CVE-2021-42008, CVE-2021-42252, CVE-2022-42703, CVE-2022-43945",45,"high, medium, low",4,"RasaHQ/rasa, kubeflow/kubeflow, jonaswinkler/paperless-ng, LibrePhotos/librephotos"
+fortinet:fortiproxy,CVE-2018-13379,1,critical,1,nmap/nmap
+lodash:lodash,"CVE-2018-16487, CVE-2019-10744, CVE-2020-28500, CVE-2020-8203, CVE-2021-23337",5,"high, medium, critical",2,"guess-js/guess, apache/airflow"
+mpath_project:mpath,"CVE-2018-16490, CVE-2021-23438",2,"high, critical",1,guess-js/guess
+python:requests,"CVE-2018-18074, CVE-2023-32681",2,"high, medium",3,"ydataai/ydata-profiling, apache/airflow, jfkirk/tensorrec"
+libjpeg-turbo:libjpeg-turbo,"CVE-2018-19664, CVE-2018-20330, CVE-2019-13960, CVE-2021-46822",4,"high, medium",2,"x4nth055/pythoncode-tutorials, isl-org/Open3D"
+libexif_project:libexif,CVE-2018-20030,1,high,1,kubeflow/kubeflow
+node-tar_project:node-tar,CVE-2018-20834,1,high,1,guess-js/guess
+smartbear:swagger_ui,"CVE-2018-25031, CVE-2019-17495",2,"medium, critical",1,apache/airflow
+unbit:uwsgi,CVE-2018-6758,1,critical,1,Cloud-CV/EvalAI
+drupal:drupal,CVE-2018-7600,1,critical,1,nmap/nmap
+nagios:nagios_xi,"CVE-2018-8733, CVE-2018-8734, CVE-2018-8735, CVE-2018-8736",4,"high, critical",1,nmap/nmap
+jquery_file_upload_project:jquery_file_upload,CVE-2018-9206,1,critical,1,nmap/nmap
+google:android,"CVE-2018-9517, CVE-2019-9423, CVE-2021-0920",3,"high, medium",3,"kubeflow/kubeflow, jonaswinkler/paperless-ng, mosaicml/composer"
+apache:zookeeper,CVE-2019-0201,1,medium,1,apache/spark
+apache:thrift,"CVE-2019-0205, CVE-2020-13949",2,high,1,apache/spark
+fasterxml:jackson-mapper-asl,CVE-2019-10172,1,high,1,h2oai/h2o-3
+mixin-deep_project:mixin-deep,CVE-2019-10746,1,critical,1,guess-js/guess
+set-value_project:set-value,"CVE-2019-10747, CVE-2021-23440",2,critical,1,guess-js/guess
+jupyter:notebook,"CVE-2019-10856, CVE-2020-26215, CVE-2024-22421",3,medium,2,"jupyter/notebook, azavea/raster-vision"
+palletsprojects:jinja,CVE-2019-10906,1,high,1,kubeflow/pipelines
+xmlsoft:libxslt,CVE-2019-11068,1,critical,1,kubeflow/kubeflow
+jquery:jquery,"CVE-2019-11358, CVE-2020-11022, CVE-2020-11023",3,medium,4,"jupyter/notebook, apache/airflow, scikit-learn/scikit-learn, keras-team/keras"
+ivanti:connect_secure,CVE-2019-11510,1,critical,1,nmap/nmap
+golang:crypto,CVE-2019-11840,1,medium,1,argoproj/argo-workflows
+gnome:glib,CVE-2019-12450,1,critical,1,kubeflow/kubeflow
+fasterxml:jackson-databind,"CVE-2019-12814, CVE-2019-14540, CVE-2019-16335, CVE-2020-36518, CVE-2022-42004",5,"high, medium, critical",4,"h2oai/h2o-3, apache/spark, feast-dev/feast, ray-project/ray"
+bzip:bzip2,CVE-2019-12900,1,critical,1,kubeflow/kubeflow
+nltk:nltk,CVE-2019-14751,1,high,1,shobrook/BitVision
+sqlite:sqlite,"CVE-2019-16168, CVE-2019-19244, CVE-2019-19645, CVE-2019-19646, CVE-2019-19880, CVE-2019-8457, CVE-2020-11655, CVE-2020-11656, CVE-2020-13434, CVE-2020-13435, CVE-2020-13630, CVE-2020-13631, CVE-2020-13871, CVE-2020-15358, CVE-2020-9327",15,"high, medium, critical",4,"tf-encrypted/tf-encrypted, x4nth055/pythoncode-tutorials, kubeflow/kubeflow, quic/aimet"
+agendaless:waitress,CVE-2019-16789,1,high,1,DragonComputer/Dragonfire
+apache:log4j,"CVE-2019-17571, CVE-2021-4104, CVE-2021-44228, CVE-2021-44832, CVE-2022-23302, CVE-2022-23305",6,"high, medium, critical",8,"shimat/opencvsharp, ray-project/ray, h2oai/h2o-3, heavyai/heavydb, kermitt2/grobid, kubeflow/kubeflow, open-metadata/OpenMetadata, kserve/kserve"
+python:python,"CVE-2019-18348, CVE-2020-10735, CVE-2021-23336",3,"high, medium",3,"RasaHQ/rasa, OpenBB-finance/OpenBB, explosion/spaCy"
+psutil_project:psutil,CVE-2019-18874,1,high,1,tensorflow/tensorflow
+djangoproject:django,"CVE-2019-19844, CVE-2020-7471, CVE-2020-9402",3,"high, critical",1,alkaline-ml/pmdarima
+kind-of_project:kind-of,CVE-2019-20149,1,high,1,guess-js/guess
+ruamel.yaml_project:ruamel.yaml,CVE-2019-20478,1,critical,1,RasaHQ/rasa
+mongodb:js-bson,CVE-2019-2391,1,medium,1,guess-js/guess
+debian:advanced_package_tool,CVE-2019-3462,1,high,1,kubeflow/pipelines
+libssh2:libssh2,CVE-2019-3855,1,high,2,"kubeflow/pipelines, kubeflow/kubeflow"
+opencv:opencv,CVE-2019-5063,1,high,1,mosaicml/composer
+gnu:wget,"CVE-2019-5953, CVE-2021-31879",2,"medium, critical",2,"kubeflow/kubeflow, triton-inference-server/server"
+numpy:numpy,"CVE-2019-6446, CVE-2021-33430, CVE-2021-34141, CVE-2021-41495, CVE-2021-41496",5,"medium, critical",4,"microsoft/nni, capitalone/DataProfiler, numpy/numpy, mlrun/mlrun"
+sqlalchemy:sqlalchemy,"CVE-2019-7164, CVE-2019-7548",2,"high, critical",1,apache/airflow
+postgresql:postgresql,"CVE-2019-9193, CVE-2021-23214, CVE-2021-23222, CVE-2021-3677",4,"high, medium",2,"kubeflow/pipelines, jonaswinkler/paperless-ng"
+google:tensorflow,"CVE-2019-9635, CVE-2020-15190, CVE-2020-15191, CVE-2020-15192, CVE-2020-15193, CVE-2020-15194, CVE-2020-15195, CVE-2020-15196, CVE-2020-15197, CVE-2020-15198, CVE-2020-15199, CVE-2020-15200, CVE-2020-15201, CVE-2020-15202, CVE-2020-15203, CVE-2020-15204, CVE-2020-15205, CVE-2020-15206, CVE-2020-15207, CVE-2020-15208, CVE-2020-15209, CVE-2020-15210, CVE-2020-15211, CVE-2020-15212, CVE-2020-15213, CVE-2020-15214, CVE-2020-5215, CVE-2021-35958, CVE-2021-37635, CVE-2021-37636, CVE-2021-37637, CVE-2021-37638, CVE-2021-37639, CVE-2021-37640, CVE-2021-37641, CVE-2021-37642, CVE-2021-37643, CVE-2021-37644, CVE-2021-37645, CVE-2021-37646, CVE-2021-37647, CVE-2021-37648, CVE-2021-37649, CVE-2021-37650, CVE-2021-37651, CVE-2021-37652, CVE-2021-37653, CVE-2021-37654, CVE-2021-37655, CVE-2021-37656, CVE-2021-37657, CVE-2021-37658, CVE-2021-37659, CVE-2021-37660, CVE-2021-37661, CVE-2021-37662, CVE-2021-37663, CVE-2021-37664, CVE-2021-37665, CVE-2021-37666, CVE-2021-37667, CVE-2021-37668, CVE-2021-37669, CVE-2021-37670, CVE-2021-37671, CVE-2021-37672, CVE-2021-37673, CVE-2021-37674, CVE-2021-37675, CVE-2021-37676, CVE-2021-37677, CVE-2021-37678, CVE-2021-37679, CVE-2021-41195, CVE-2021-41196, CVE-2021-41197, CVE-2021-41198, CVE-2021-41199, CVE-2021-41200, CVE-2021-41201, CVE-2021-41202, CVE-2021-41203, CVE-2021-41204, CVE-2021-41205, CVE-2021-41206, CVE-2021-41207, CVE-2021-41208, CVE-2021-41209, CVE-2021-41210, CVE-2021-41212, CVE-2021-41213, CVE-2021-41214, CVE-2021-41215, CVE-2021-41216, CVE-2021-41217, CVE-2021-41218, CVE-2021-41219, CVE-2021-41221, CVE-2021-41222, CVE-2021-41223, CVE-2021-41224, CVE-2021-41225, CVE-2021-41226, CVE-2021-41227, CVE-2021-41228, CVE-2022-21725, CVE-2022-21726, CVE-2022-21727, CVE-2022-21728, CVE-2022-21729, CVE-2022-21730, CVE-2022-21731, CVE-2022-21732, CVE-2022-21733, CVE-2022-21734, CVE-2022-21735, CVE-2022-21736, CVE-2022-21737, CVE-2022-21738, CVE-2022-21739, CVE-2022-21740, CVE-2022-21741, CVE-2022-23557, CVE-2022-23558, CVE-2022-23559, CVE-2022-23560, CVE-2022-23561, CVE-2022-23562, CVE-2022-23563, CVE-2022-23564, CVE-2022-23565, CVE-2022-23566, CVE-2022-23567, CVE-2022-23568, CVE-2022-23569, CVE-2022-23570, CVE-2022-23571, CVE-2022-23572, CVE-2022-23573, CVE-2022-23574, CVE-2022-23575, CVE-2022-23576, CVE-2022-23577, CVE-2022-23578, CVE-2022-23579, CVE-2022-23580, CVE-2022-23581, CVE-2022-23582, CVE-2022-23583, CVE-2022-23584, CVE-2022-23585, CVE-2022-23586, CVE-2022-23587, CVE-2022-23588, CVE-2022-23589, CVE-2022-23590, CVE-2022-23591, CVE-2022-23592, CVE-2022-23593, CVE-2022-23594, CVE-2022-23595, CVE-2022-29191, CVE-2022-29192, CVE-2022-29193, CVE-2022-29194, CVE-2022-29195, CVE-2022-29196, CVE-2022-29197, CVE-2022-29198, CVE-2022-29199, CVE-2022-29200, CVE-2022-29201, CVE-2022-29202, CVE-2022-29203, CVE-2022-29204, CVE-2022-29205, CVE-2022-29206, CVE-2022-29207, CVE-2022-29208, CVE-2022-29209, CVE-2022-29211, CVE-2022-29212, CVE-2022-29213, CVE-2022-29216",184,"high, medium, critical",7,"quic/aimet, ahmetozlu/tensorflow_object_counting_api, tf-encrypted/tf-encrypted, x4nth055/pythoncode-tutorials, wandb/wandb, tensorflow/tensorflow, google-research/language"
+icu-project:international_components_for_unicode,CVE-2020-10531,1,high,1,tensorflow/tensorflow
+schedmd:slurm,"CVE-2020-12693, CVE-2020-27745, CVE-2020-27746, CVE-2021-31215, CVE-2022-29500",5,"high, low, critical",1,triton-inference-server/server
+numfocus:pandas,CVE-2020-13091,1,critical,1,pandas-dev/pandas
+systemd_project:systemd,"CVE-2020-13529, CVE-2021-33910, CVE-2021-3997, CVE-2022-3821",4,medium,2,"mlrun/mlrun, triton-inference-server/server"
+elliptic_project:elliptic,"CVE-2020-13822, CVE-2020-28498",2,"high, medium",1,guess-js/guess
+openbsd:openssh,"CVE-2020-14145, CVE-2023-48795",2,medium,2,"nmap/nmap, kserve/kserve"
+redislabs:redis,CVE-2020-14147,1,high,1,ray-project/ray
+ijg:libjpeg,"CVE-2020-14152, CVE-2020-14153",2,high,1,davisking/dlib
+pyyaml:pyyaml,"CVE-2020-14343, CVE-2020-1747",2,critical,2,"iterative/dvc, feast-dev/feast"
+oracle:weblogic_server,CVE-2020-14882,1,critical,1,nmap/nmap
+object-path_project:object-path,"CVE-2020-15256, CVE-2021-23434, CVE-2021-3805",3,"high, critical",1,guess-js/guess
+ajv.js:ajv,CVE-2020-15366,1,medium,2,"guess-js/guess, kubeflow/kubeflow"
+lua:lua,"CVE-2020-15888, CVE-2020-15889, CVE-2020-15945, CVE-2020-24342",4,"high, medium, critical",1,ray-project/ray
+ffmpeg:ffmpeg,"CVE-2020-20445, CVE-2020-20446, CVE-2020-20450, CVE-2020-20453, CVE-2020-21688, CVE-2020-21697, CVE-2020-22037, CVE-2020-22042, CVE-2021-38114, CVE-2021-38171, CVE-2021-38291",11,"high, medium, critical",2,"jonaswinkler/paperless-ng, NVIDIA/DALI"
+ieee:ieee_802.11,"CVE-2020-24586, CVE-2020-24587, CVE-2020-24588",3,low,1,RasaHQ/rasa
+python-cryptography_project:python-cryptography,CVE-2020-25659,1,medium,1,devAmoghS/Machine-Learning-with-Python
+netbsd:netbsd,CVE-2020-26139,1,medium,1,RasaHQ/rasa
+jupyter:jupyter_server,CVE-2020-26232,1,medium,1,jupyter-server/jupyter_server
+civetweb_project:civetweb,CVE-2020-27304,1,critical,1,isl-org/Open3D
+gulpjs:glob-parent,CVE-2020-28469,1,high,2,"guess-js/guess, elyra-ai/elyra"
+immer_project:immer,"CVE-2020-28477, CVE-2021-23436, CVE-2021-3757",3,"high, critical",1,elyra-ai/elyra
+musl-libc:musl,CVE-2020-28928,1,medium,2,"kubeflow/pipelines, kubeflow/kubeflow"
+gjson_project:gjson,"CVE-2020-35380, CVE-2020-36066, CVE-2020-36067, CVE-2021-42836",4,high,1,kubeflow/katib
+python:pillow,"CVE-2020-35653, CVE-2020-35654, CVE-2020-35655, CVE-2021-23437, CVE-2021-25287, CVE-2021-25289, CVE-2021-25290, CVE-2021-25291, CVE-2021-25292, CVE-2021-25293, CVE-2021-28675, CVE-2021-28676, CVE-2021-28677, CVE-2021-28678, CVE-2021-34552, CVE-2022-22815, CVE-2022-22816, CVE-2022-22817, CVE-2022-24303, CVE-2022-30595, CVE-2022-45198, CVE-2022-45199, CVE-2023-44271, CVE-2023-50447",24,"high, medium, critical",11,"jonaswinkler/paperless-ng, triton-inference-server/server, kserve/kserve, x4nth055/pythoncode-tutorials, LibrePhotos/librephotos, BindsNET/bindsnet, autogluon/autogluon, jfkirk/tensorrec, pytorch/serve, OpenBB-finance/OpenBB, azavea/raster-vision"
+cryptography_project:cryptography,"CVE-2020-36242, CVE-2023-38325, CVE-2023-49083",3,"high, critical",2,"kserve/kserve, devAmoghS/Machine-Learning-with-Python"
+hapijs:hoek,CVE-2020-36604,1,high,1,guess-js/guess
+google:chrome,"CVE-2020-6532, CVE-2020-6537, CVE-2023-4863",3,high,3,"alan-ai/alan-sdk-web, tesseract-ocr/tesseract, kserve/kserve"
+verizon:serialize-javascript,CVE-2020-7660,1,high,1,guess-js/guess
+websocket-extensions_project:websocket-extensions,CVE-2020-7662,1,high,1,alan-ai/alan-sdk-web
+chartjs:chart.js,CVE-2020-7746,1,critical,1,kubeflow/kubeflow
+trim_project:trim,CVE-2020-7753,1,high,1,apache/airflow
+y18n_project:y18n,CVE-2020-7774,1,critical,1,guess-js/guess
+ini_project:ini,CVE-2020-7788,1,critical,1,guess-js/guess
+node-notifier_project:node-notifier,CVE-2020-7789,1,medium,1,guess-js/guess
+bufferlist_project:bufferlist,CVE-2020-8244,1,medium,1,pytorch/opacus
+jsdom_project:jsdom,CVE-2021-20066,1,medium,1,guess-js/guess
+exiftool_project:exiftool,CVE-2021-22204,1,high,1,photoprism/photoprism
+google:protobuf-kotlin,CVE-2021-22569,1,medium,1,open-metadata/OpenMetadata
+google:oauth_client_library_for_java,CVE-2021-22573,1,high,1,h2oai/h2o-3
+path-parse_project:path-parse,CVE-2021-23343,1,high,2,"guess-js/guess, kubeflow/kubeflow"
+underscorejs:underscore,CVE-2021-23358,1,high,1,Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor
+npmjs:hosted-git-info,CVE-2021-23362,1,medium,1,guess-js/guess
+ansi-html_project:ansi-html,CVE-2021-23424,1,high,1,elyra-ai/elyra
+trim-off-newlines_project:trim-off-newlines,CVE-2021-23425,1,medium,1,guess-js/guess
+nanoid_project:nanoid,CVE-2021-23566,1,medium,1,guess-js/guess
+celeryproject:celery,CVE-2021-23727,1,high,1,FedML-AI/FedML
+facebook:zstandard,CVE-2021-24032,1,medium,1,recommenders-team/recommenders
+facebook:react-dev-utils,CVE-2021-24033,1,medium,1,elyra-ai/elyra
+set-getter_project:set-getter,CVE-2021-25949,1,critical,1,guess-js/guess
+merge-deep_project:merge-deep,CVE-2021-26707,1,critical,1,guess-js/guess
+ssri_project:ssri,CVE-2021-27290,1,high,2,"jupyterlab/jupyterlab, guess-js/guess"
+opener_project:opener,"CVE-2021-27478, CVE-2021-27482, CVE-2021-27498, CVE-2021-27500",4,high,1,LibrePhotos/librephotos
+url-parse_project:url-parse,CVE-2021-27515,1,medium,1,jupyterlab/jupyterlab
+mpmath:mpmath,CVE-2021-29063,1,high,2,"pytorch/pytorch, mosaicml/composer"
+apache:commons_io,CVE-2021-29425,1,medium,1,ray-project/ray
+pydantic_project:pydantic,CVE-2021-29510,1,high,2,"deeppavlov/DeepPavlov, explosion/thinc"
+golang:go,"CVE-2021-29923, CVE-2022-27664, CVE-2022-41723, CVE-2023-24534, CVE-2023-24536, CVE-2023-24537, CVE-2023-24538, CVE-2023-24540, CVE-2023-29402, CVE-2023-29403, CVE-2023-29404, CVE-2023-29405, CVE-2023-29406",13,"high, medium, critical",5,"kubeflow/pipelines, mlrun/mlrun, SeldonIO/seldon-core, kubeflow/katib, argoproj/argo-workflows"
+alpinelinux:apk-tools,CVE-2021-30139,1,high,1,kubeflow/pipelines
+redis:redis,"CVE-2021-32626, CVE-2022-24735, CVE-2022-3647",3,"high, low",1,LibrePhotos/librephotos
+ws_project:ws,CVE-2021-32640,1,medium,1,guess-js/guess
+tiangolo:fastapi,CVE-2021-32677,1,high,1,deeppavlov/DeepPavlov
+tar_project:tar,"CVE-2021-32803, CVE-2021-32804",2,high,1,guess-js/guess
+sqlparse_project:sqlparse,CVE-2021-32839,1,high,1,jonaswinkler/paperless-ng
+normalize-url_project:normalize-url,CVE-2021-33502,1,high,2,"jupyterlab/jupyterlab, netdata/netdata"
+css-what_project:css-what,CVE-2021-33587,1,high,1,xorbitsai/inference
+trim-newlines_project:trim-newlines,CVE-2021-33623,1,high,1,elyra-ai/elyra
+feep:libtar,"CVE-2021-33643, CVE-2021-33644, CVE-2021-33645, CVE-2021-33646",4,"high, critical",1,NVIDIA/DALI
+websockets_project:websockets,CVE-2021-33880,1,medium,1,RasaHQ/rasa
+apache:commons_compress,CVE-2021-35515,1,high,1,h2oai/h2o-3
+nettle_project:nettle,CVE-2021-3580,1,high,1,RasaHQ/rasa
+mit:kerberos_5,"CVE-2021-36222, CVE-2021-37750, CVE-2022-42898",3,"high, medium",2,"jonaswinkler/paperless-ng, triton-inference-server/server"
+libssh:libssh,CVE-2021-3634,1,medium,1,jonaswinkler/paperless-ng
+axios:axios,CVE-2021-3749,1,high,1,kubeflow/pipelines
+npmjs:tar,CVE-2021-37701,1,high,1,guess-js/guess
+tmpl_project:tmpl,CVE-2021-3777,1,high,1,guess-js/guess
+artifex:ghostscript,CVE-2021-3781,1,critical,1,jonaswinkler/paperless-ng
+nth-check_project:nth-check,CVE-2021-3803,1,high,2,"xorbitsai/inference, LibrePhotos/librephotos"
+ansi-regex_project:ansi-regex,CVE-2021-3807,1,high,3,"Xtremilicious/projectlearn-project-based-learning, guess-js/guess, kubeflow/kubeflow"
+json-schema_project:json-schema,CVE-2021-3918,1,critical,1,guess-js/guess
+docker:command_line_interface,CVE-2021-41092,1,high,1,kubeflow/katib
+openbsd:libressl,CVE-2021-41581,1,medium,1,kubeflow/pipelines
+vim:vim,"CVE-2021-4166, CVE-2021-4192, CVE-2022-0213, CVE-2022-0261, CVE-2022-0318, CVE-2022-0351, CVE-2022-0359, CVE-2022-0361, CVE-2022-0368, CVE-2022-0408, CVE-2022-0413, CVE-2022-0554, CVE-2022-0572, CVE-2022-0629, CVE-2022-0685, CVE-2022-0714, CVE-2022-1629, CVE-2022-1674, CVE-2022-1720, CVE-2022-1851, CVE-2022-1927, CVE-2022-1942, CVE-2022-1968, CVE-2022-2175, CVE-2022-2183, CVE-2022-2304, CVE-2022-2343, CVE-2022-2344, CVE-2022-2345, CVE-2022-2571, CVE-2022-2923, CVE-2022-2946, CVE-2022-2980, CVE-2022-47024, CVE-2023-0049, CVE-2023-0054, CVE-2023-0288, CVE-2023-0433",38,"high, medium, critical",1,triton-inference-server/server
+async_project:async,CVE-2021-43138,1,high,1,guess-js/guess
+arm:mbed_tls,CVE-2021-44732,1,critical,1,JuliaLang/julia
+substack:minimist,CVE-2021-44906,1,critical,2,"guess-js/guess, kubeflow/kubeflow"
+ultrajson_project:ultrajson,CVE-2021-45958,1,medium,1,catboost/catboost
+digitalbazaar:forge,"CVE-2022-0122, CVE-2022-24771, CVE-2022-24772, CVE-2022-24773",4,"high, medium",3,"guess-js/guess, kubeflow/kubeflow, elyra-ai/elyra"
+node-fetch_project:node-fetch,CVE-2022-0235,1,medium,2,"guess-js/guess, kubeflow/kubeflow"
+unzip_project:unzip,CVE-2022-0530,1,medium,1,open-metadata/OpenMetadata
+parse-path_project:parse-path,CVE-2022-0624,1,high,1,guess-js/guess
+parse-url_project:parse-url,"CVE-2022-0722, CVE-2022-2216, CVE-2022-2217, CVE-2022-2218, CVE-2022-2900, CVE-2022-3224",6,"high, medium, critical",2,"guess-js/guess, LibrePhotos/librephotos"
+libtiff:libtiff,"CVE-2022-0891, CVE-2022-0907, CVE-2022-0908, CVE-2022-0909, CVE-2022-0924, CVE-2022-2519, CVE-2022-2520, CVE-2022-2521, CVE-2022-2953",9,"high, medium",1,NVIDIA/DALI
+google:protobuf-cpp,CVE-2022-1941,1,high,1,OpenBB-finance/OpenBB
+go-restful_project:go-restful,CVE-2022-1996,1,critical,1,SeldonIO/seldon-core
+nanohttpd:nanohttpd,CVE-2022-21230,1,medium,1,h2oai/h2o-3
+prometheus:client_golang,CVE-2022-21698,1,high,1,kserve/kserve
+microsoft:windows_server_2019,CVE-2022-21907,1,critical,1,nmap/nmap
+vmware:spring_security,CVE-2022-22978,1,critical,1,Vedenin/useful-java-links
+certifi_project:certifi,CVE-2022-23491,1,high,4,"microsoft/qlib, capitalone/DataProfiler, OpenBB-finance/OpenBB, mosaicml/composer"
+gitpython_project:gitpython,"CVE-2022-24439, CVE-2023-40267",2,critical,2,"OpenBB-finance/OpenBB, kedro-org/kedro"
+qs_project:qs,CVE-2022-24999,1,high,2,"guess-js/guess, kubeflow/kubeflow"
+mongoosejs:mongoose,"CVE-2022-2564, CVE-2023-3696",2,critical,1,guess-js/guess
+google:gson,CVE-2022-25647,1,high,1,h2oai/h2o-3
+terser:terser,CVE-2022-25858,1,high,1,guess-js/guess
+protobufjs_project:protobufjs,CVE-2022-25878,1,high,2,"kubeflow/pipelines, kubeflow/kubeflow"
+http-cache-semantics_project:http-cache-semantics,CVE-2022-25881,1,high,1,guess-js/guess
+apostrophecms:sanitize-html,CVE-2022-25887,1,high,1,jupyterlab/jupyterlab
+cookiejar_project:cookiejar,CVE-2022-25901,1,high,1,guess-js/guess
+golang:ssh,CVE-2022-27191,1,high,1,kubeflow/katib
+ejs:ejs,CVE-2022-29078,1,critical,1,elyra-ai/elyra
+npmjs:npm,CVE-2022-29244,1,high,1,kubeflow/pipelines
+momentjs:moment,CVE-2022-31129,1,high,1,kubeflow/kubeflow
+golang:text,CVE-2022-32149,1,high,1,kubeflow/katib
+got_project:got,CVE-2022-33987,1,medium,1,kubeflow/kubeflow
+google:protobuf-javalite,CVE-2022-3509,1,high,1,ray-project/ray
+minimatch_project:minimatch,CVE-2022-3517,1,high,2,"guess-js/guess, kubeflow/kubeflow"
+webpack.js:loader-utils,"CVE-2022-37599, CVE-2022-37601, CVE-2022-37603",3,"high, critical",2,"guess-js/guess, LibrePhotos/librephotos"
+elastic:kibana,CVE-2022-38778,1,medium,1,kubeflow/kubeflow
+decode-uri-component_project:decode-uri-component,CVE-2022-38900,1,high,1,guess-js/guess
+jettison_project:jettison,"CVE-2022-40150, CVE-2022-45685, CVE-2022-45693, CVE-2023-1436",4,high,1,h2oai/h2o-3
+fortinet:fortiswitchmanager,CVE-2022-40684,1,critical,1,nmap/nmap
+python:setuptools,CVE-2022-40897,1,medium,1,apache/airflow
+pythoncharmers:python-future,CVE-2022-40899,1,high,2,"capitalone/DataProfiler, OpenBB-finance/OpenBB"
+golang:h2c,CVE-2022-41721,1,high,1,kubeflow/katib
+apache:commons_text,CVE-2022-42889,1,critical,1,h2oai/h2o-3
+pytest:py,CVE-2022-42969,1,high,1,OpenBB-finance/OpenBB
+heimdal_project:heimdal,CVE-2022-45142,1,high,1,triton-inference-server/server
+json5:json5,CVE-2022-46175,1,high,1,guess-js/guess
+gnu:gnutls,CVE-2023-0361,1,high,1,triton-inference-server/server
+git-scm:git,"CVE-2023-22490, CVE-2023-23946",2,"high, medium",1,triton-inference-server/server
+redhat:openshift_container_platform,CVE-2023-2253,1,medium,1,argoproj/argo-workflows
+follow-redirects:follow_redirects,CVE-2023-26159,1,medium,1,xorbitsai/inference
+vega-functions_project:vega-functions,"CVE-2023-26486, CVE-2023-26487",2,medium,1,gradio-app/gradio
+encode:starlette,CVE-2023-30798,1,high,1,Lightning-AI/pytorch-lightning
+grpc:grpc,"CVE-2023-32731, CVE-2023-33953",2,high,2,"kserve/kserve, ray-project/ray"
+aiohttp:aiohttp,"CVE-2023-37276, CVE-2023-47627, CVE-2023-49082, CVE-2024-23334, CVE-2024-23829",5,"high, medium",2,"mlrun/mlrun, kserve/kserve"
+kennethreitz:certifi,CVE-2023-37920,1,critical,1,kserve/kserve
+paddlepaddle:paddlepaddle,"CVE-2023-38674, CVE-2023-38676, CVE-2023-38677, CVE-2023-38678, CVE-2023-52302, CVE-2023-52303, CVE-2023-52304, CVE-2023-52305, CVE-2023-52306, CVE-2023-52307, CVE-2023-52308, CVE-2023-52309, CVE-2023-52310, CVE-2023-52311, CVE-2023-52312, CVE-2023-52313, CVE-2023-52314",17,"high, critical",1,kserve/kserve
+python:urllib3,"CVE-2023-43804, CVE-2023-45803",2,"high, medium",1,capitalone/DataProfiler
+postcss:postcss,CVE-2023-44270,1,medium,1,gradio-app/gradio
+ietf:http,CVE-2023-44487,1,high,1,h2oai/h2o-3
+opentelemetry:opentelemetry,CVE-2023-45142,1,high,1,kserve/kserve
+apache:pyarrow,CVE-2023-47248,1,critical,6,"kedro-org/kedro, ray-project/ray, huggingface/datasets, flyteorg/flyte, feast-dev/feast, capitalone/DataProfiler"
+anyscale:ray,CVE-2023-48023,1,critical,1,kserve/kserve
+knative:serving,CVE-2023-48713,1,medium,1,kserve/kserve
+redhat:ansible_automation_platform,CVE-2023-50782,1,high,1,kserve/kserve
+h2o:h2o,"CVE-2023-6016, CVE-2023-6038, CVE-2023-6569",3,"high, critical",1,h2oai/h2o-3
+ray_project:ray,"CVE-2023-6019, CVE-2023-6020",2,"high, critical",1,kserve/kserve
+huggingface:transformers,"CVE-2023-6730, CVE-2023-7018",2,high,1,kserve/kserve
+paddlepaddle:paddle,CVE-2024-0521,1,high,1,kserve/kserve
+github:cmark-gfm,CVE-2024-22051,1,critical,1,PaddlePaddle/Paddle
