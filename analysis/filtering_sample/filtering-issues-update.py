@@ -64,7 +64,7 @@ def find_and_group_unique_cve_patterns(csv_file, output_file):
 
 if __name__ == "__main__":
     # Specify the input CSV file name and output CSV file name
-    input_csv_file = '../sample/output_no_duplicates.csv'
+    input_csv_file = '../sample/issues_github.csv'
     output_csv_file = 'grouped_unique_cve_patterns_final_before_after.csv'
 
     #input_csv_file = '../documents/vulnerability_issues.csv'
